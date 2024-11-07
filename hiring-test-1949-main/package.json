@@ -1,0 +1,15 @@
+{
+  "name": "hiring-test-1949-main",
+  "version": "1.0.0",
+  "description": "Thanks for your interest in joining the SiteHost team! Before we go any further we just need to make sure that your technical chops and problem solving skills are a good fit for us. To test this we've put together a small challenge which will touch on a few areas:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
